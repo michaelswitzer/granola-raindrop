@@ -1,6 +1,6 @@
 # Raindrop by Granola Arcade
 
-![Raindrop fightstick](/Images/raindrop.jpg "Raindrop fightstick")
+![Raindrop fightstick](/Images/raindrop.png "Raindrop fightstick")
 
 The Raindrop is a button box style arcade controller by Granola Arcade. It is an upgraded version of the <a rel="TrailMix" href="https://github.com/michaelswitzer/granola-trailmix">TrailMix</a>, our first design. It has the same capabilities as the TrailMix but with a fully enclosed case and hotswap sockets that support Kailh Choc v1 and v2 switches. Due to the simple design requiring no tools or additional hardware for assembly, the Raindrop is available at a very competitive price.
 
