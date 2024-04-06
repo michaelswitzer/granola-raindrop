@@ -4,10 +4,7 @@
 
 The Raindrop is a button box style arcade controller by Granola Arcade. It is an upgraded version of the <a rel="TrailMix" href="https://github.com/michaelswitzer/granola-trailmix">TrailMix</a>, our first design. It has the same capabilities as the TrailMix but with a fully enclosed case and hotswap sockets that support Kailh Choc v1 and v2 switches. Due to the simple design requiring no tools or additional hardware for assembly, the Raindrop is available at a very competitive price.
 
-You can buy the Raindrop at https://granola.games
-
-## License
-The Raindrop is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. In simple terms, this means you are welcome to use or remix these designs to build your own Raindrop free of cost. You are *not* permitted to sell the Raindrop commercially. You also can't republish the designs without attribution and without carrying this license forward into your new designs. For more information see the license file in this repository.
+You can no longer purchase the Raindrop but you can buy our current controller offerings at https://granola.games
 
 ## How to build
 To build your own Raindrop, import the PCB designs and bill of materials using KiCAD. I provided a list of parts that use JLCPCB's part assembly services, since that is the company I use to manufacture the PCB. You can use these files as a starting point for building your own PCB.
